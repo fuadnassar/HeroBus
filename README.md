@@ -158,5 +158,3 @@ process.on('uncaughtException', function (err, eew) {
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-Feel free to customize this README file further based on your project's specific details and requirements.
