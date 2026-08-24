@@ -1,5 +1,5 @@
 # HeroBus
-Hero Bus is a mobile application created by Fuad Nassar and a talented team to solve Public transport issue in Jordan.
+Hero Bus is a mobile application developed by Fuad Nassar and a talented team at Open Sky Ltd. to solve Public transport issue in Jordan.
 
 ![image](https://github.com/user-attachments/assets/6bde1545-d449-4b78-81e3-b2a7ef94dc42)
 
